@@ -2,8 +2,9 @@
 
 I'm cyberfox21.
 
-
 Student at MIREA Technological University.
+
+<img src="https://downloader.disk.yandex.ru/preview/ffed65d78798fd43ab7dd7a6fb2b511091013b15d4e6d2ca0bc5499bdcce4d9c/61e39c6c/8ivgqHiO0xnulZRnKUBq8UP8V5PLlHnML0UeFGiRFW6b3lAgGZ4jykYs3ToI2J3yESEF8oQXw7tea8QmkO3Y1Q%3D%3D?uid=0&filename=profile-character.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" align="right" width="35%" height="auto">
 
 ### 🐱‍💻 Currently working on:
 - Messenger using Zulip Api
