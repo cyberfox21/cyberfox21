@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there🐱‍👤
 
-<!--
-**cyberfox21/cyberfox21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm cyberfox21.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student at MIREA Technological University.
+
+### 🐱‍💻 Currently working on:
+- Messenger using Zulip Api
+- Application for EUC transport
+- Some study projects
+
+### 📚 Currently learning:
+- Computer science
+- Android development
+- Kotlin / Java
+
+### 🐱‍🏍 How to reach me:
+<p align="left">
+    <a href="https://t.me/cyberfox_21">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" align="center">
+    </a>
+    <a href="https://vk.com/cyberfox21">
+        <img src = "https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" align="center">
+    </a>
+</p>
+
+<br>
+
+[![Years Badge](https://badges.pufler.dev/years/cyberfox21)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/cyberfox21)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/YanaGlad)](https://badges.pufler.dev)
