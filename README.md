@@ -30,4 +30,4 @@ Student at MIREA Technological University.
 
 <br>
 
-[![Years Badge](https://badges.pufler.dev/years/cyberfox21)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/cyberfox21)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/YanaGlad)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/cyberfox21)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/cyberfox21)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/cyberfox21)](https://badges.pufler.dev)
