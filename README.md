@@ -8,17 +8,17 @@ I'm cyberfox21.
 Student at MIREA Technological University.
 
 
-### 🐱‍💻 Currently working on:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Currently working on:
 - Messenger using Zulip Api
 - Application for EUC transport
 - Some study projects
 
-### 📚 Currently learning:
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Currently learning:
 - Computer science
 - Android development
 - Kotlin / Java
 
-### 🐱‍🏍 How to reach me:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How to reach me:
 <p align="left">
     <a href="https://t.me/cyberfox_21">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" align="center">
