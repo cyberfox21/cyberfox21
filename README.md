@@ -4,9 +4,9 @@ I'm cyberfox21.
 
 <img src="https://github.com/cyberfox21/cyberfox21/blob/main/profile-character.png" align="right" width="40%" height="auto">
 
+Android Developer in Tinkoff.
 
-Student at MIREA Technological University.
-
+Student at MIREA Technological University. 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Currently working on:
 - Messenger using Zulip Api
